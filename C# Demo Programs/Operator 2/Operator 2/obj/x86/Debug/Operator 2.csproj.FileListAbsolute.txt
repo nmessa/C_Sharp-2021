@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Operator 2\Operator 2\bin\Debug\Operator 2.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Operator 2\Operator 2\bin\Debug\Operator 2.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Operator 2\Operator 2\obj\x86\Debug\Operator 2.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Operator 2\Operator 2\obj\x86\Debug\Operator 2.pdb
