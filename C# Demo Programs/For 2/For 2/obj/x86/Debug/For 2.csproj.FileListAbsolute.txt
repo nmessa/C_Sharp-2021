@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\For 2\For 2\bin\Debug\For 2.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\For 2\For 2\bin\Debug\For 2.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\For 2\For 2\obj\x86\Debug\For 2.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\For 2\For 2\obj\x86\Debug\For 2.pdb
