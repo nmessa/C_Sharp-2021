@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Switch 1\Switch 1\bin\Debug\Switch 1.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Switch 1\Switch 1\bin\Debug\Switch 1.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Switch 1\Switch 1\obj\x86\Debug\Switch 1.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Switch 1\Switch 1\obj\x86\Debug\Switch 1.pdb

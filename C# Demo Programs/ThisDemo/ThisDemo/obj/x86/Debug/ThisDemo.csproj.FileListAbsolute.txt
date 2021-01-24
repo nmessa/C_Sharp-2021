@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\ThisDemo\ThisDemo\bin\Debug\ThisDemo.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\ThisDemo\ThisDemo\bin\Debug\ThisDemo.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\ThisDemo\ThisDemo\obj\x86\Debug\ThisDemo.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\ThisDemo\ThisDemo\obj\x86\Debug\ThisDemo.pdb
