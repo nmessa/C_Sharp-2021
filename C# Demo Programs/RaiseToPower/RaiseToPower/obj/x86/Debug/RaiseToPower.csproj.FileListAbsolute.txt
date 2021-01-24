@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\RaiseToPower\RaiseToPower\bin\Debug\RaiseToPower.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\RaiseToPower\RaiseToPower\bin\Debug\RaiseToPower.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\RaiseToPower\RaiseToPower\obj\x86\Debug\RaiseToPower.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\RaiseToPower\RaiseToPower\obj\x86\Debug\RaiseToPower.pdb
