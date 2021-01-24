@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\AddMethod\AddMethod\bin\Debug\AddMethod.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\AddMethod\AddMethod\bin\Debug\AddMethod.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\AddMethod\AddMethod\obj\x86\Debug\AddMethod.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\AddMethod\AddMethod\obj\x86\Debug\AddMethod.pdb

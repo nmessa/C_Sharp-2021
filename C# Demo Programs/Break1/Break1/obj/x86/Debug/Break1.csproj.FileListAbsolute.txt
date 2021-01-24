@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Break1\Break1\bin\Debug\Break1.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Break1\Break1\bin\Debug\Break1.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Break1\Break1\obj\x86\Debug\Break1.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Break1\Break1\obj\x86\Debug\Break1.pdb
