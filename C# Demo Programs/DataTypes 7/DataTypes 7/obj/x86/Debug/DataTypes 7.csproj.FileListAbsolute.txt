@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 7\DataTypes 7\bin\Debug\DataTypes 7.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 7\DataTypes 7\bin\Debug\DataTypes 7.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 7\DataTypes 7\obj\x86\Debug\DataTypes 7.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 7\DataTypes 7\obj\x86\Debug\DataTypes 7.pdb
