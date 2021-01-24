@@ -1,0 +1,6 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Fundamentals 1\Fundamentals 1\bin\Debug\Fundamentals 1.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Fundamentals 1\Fundamentals 1\bin\Debug\Fundamentals 1.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Fundamentals 1\Fundamentals 1\obj\x86\Debug\Fundamentals 1.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Fundamentals 1\Fundamentals 1\obj\x86\Debug\Fundamentals 1.pdb
+I:\SST\2018 - 2019 Courses\Programming II\C#\Demos\Fundamentals 1\Fundamentals 1\obj\x86\Debug\Fundamentals 1.exe
+I:\SST\2018 - 2019 Courses\Programming II\C#\Demos\Fundamentals 1\Fundamentals 1\obj\x86\Debug\Fundamentals 1.pdb

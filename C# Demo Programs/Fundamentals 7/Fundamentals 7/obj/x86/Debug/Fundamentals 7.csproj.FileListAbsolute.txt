@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Fundamentals 7\Fundamentals 7\bin\Debug\Fundamentals 7.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Fundamentals 7\Fundamentals 7\bin\Debug\Fundamentals 7.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Fundamentals 7\Fundamentals 7\obj\x86\Debug\Fundamentals 7.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Fundamentals 7\Fundamentals 7\obj\x86\Debug\Fundamentals 7.pdb
