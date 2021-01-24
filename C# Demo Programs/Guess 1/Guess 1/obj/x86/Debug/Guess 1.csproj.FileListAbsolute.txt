@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Guess 1\Guess 1\bin\Debug\Guess 1.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Guess 1\Guess 1\bin\Debug\Guess 1.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Guess 1\Guess 1\obj\x86\Debug\Guess 1.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Guess 1\Guess 1\obj\x86\Debug\Guess 1.pdb

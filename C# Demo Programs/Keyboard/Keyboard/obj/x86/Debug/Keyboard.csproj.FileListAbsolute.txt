@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Keyboard\Keyboard\bin\Debug\Keyboard.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Keyboard\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Keyboard\Keyboard\obj\x86\Debug\Keyboard.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\Keyboard\Keyboard\obj\x86\Debug\Keyboard.pdb
