@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 11\DataTypes 11\bin\Debug\DataTypes 11.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 11\DataTypes 11\bin\Debug\DataTypes 11.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 11\DataTypes 11\obj\x86\Debug\DataTypes 11.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 11\DataTypes 11\obj\x86\Debug\DataTypes 11.pdb

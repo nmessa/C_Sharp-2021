@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 9\DataTypes 9\bin\Debug\DataTypes 9.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 9\DataTypes 9\bin\Debug\DataTypes 9.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 9\DataTypes 9\obj\x86\Debug\DataTypes 9.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 9\DataTypes 9\obj\x86\Debug\DataTypes 9.pdb

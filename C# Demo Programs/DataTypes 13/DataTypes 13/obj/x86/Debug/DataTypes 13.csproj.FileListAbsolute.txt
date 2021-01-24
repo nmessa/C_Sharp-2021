@@ -1,0 +1,4 @@
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 13\DataTypes 13\bin\Debug\DataTypes 13.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 13\DataTypes 13\bin\Debug\DataTypes 13.pdb
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 13\DataTypes 13\obj\x86\Debug\DataTypes 13.exe
+C:\Users\nmessa\Documents\Visual Studio 2010\Projects\C#\Demos\DataTypes 13\DataTypes 13\obj\x86\Debug\DataTypes 13.pdb

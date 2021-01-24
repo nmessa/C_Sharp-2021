@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFactors", "FindFactors\FindFactors.csproj", "{9F4C6CD0-2617-487A-A28D-85D78443CBEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4C6CD0-2617-487A-A28D-85D78443CBEB}.Debug|x86.ActiveCfg = Debug|x86
+		{9F4C6CD0-2617-487A-A28D-85D78443CBEB}.Debug|x86.Build.0 = Debug|x86
+		{9F4C6CD0-2617-487A-A28D-85D78443CBEB}.Release|x86.ActiveCfg = Release|x86
+		{9F4C6CD0-2617-487A-A28D-85D78443CBEB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
