@@ -1,0 +1,6 @@
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 1.30.2018\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 1.30.2018\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 1.30.2018\Payroll\Payroll\obj\x86\Debug\Payroll.exe
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 1.30.2018\Payroll\Payroll\obj\x86\Debug\Payroll.pdb
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 1.28.2020\Payroll\Payroll\obj\x86\Debug\Payroll.exe
+G:\SST\2019 - 2020 Courses\Programming II\MyC#\Lab Exercise 1.28.2020\Payroll\Payroll\obj\x86\Debug\Payroll.pdb
