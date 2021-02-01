@@ -23,33 +23,28 @@ namespace Payroll
             
 
             //Get hourly rate from user and convert to double
-            Console.Write("Enter hourly rate: ");
-            userInput = Console.ReadLine();
-            hourlyRate = Convert.ToDouble(userInput);
+            //Add code here
+
 
             //Get hours worked from user and convert to double
-            Console.Write("Enter hours worked: ");
-            userInput = Console.ReadLine();
-            hours = Convert.ToDouble(userInput);
+            //Add code here
+
 
             //Calculate gross pay
-            gross = hours * hourlyRate;
+            //Add code here
+
 
             //Determine tax
-            if (gross <= 300)
-                tax = gross * TAX1;
-            else
-                tax = gross * TAX2;
+            //Add code here
+
 
             //Calculate net pay
-            net = gross - tax;
+            //Add code here
+
 
             //Create formatted strings
-            strHourlyRate = hourlyRate.ToString("C");
-            strGross = gross.ToString("C");
-            strTax = tax.ToString("C");
-            strNet = net.ToString("C");
-            strHours = hours.ToString("F2");
+            //Add code here
+
 
             //Output report
             Console.WriteLine("You worked {0} hours at {1} per hour", strHours, strHourlyRate);
