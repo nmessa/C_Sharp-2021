@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhippetBus", "WhippetBus\WhippetBus.csproj", "{F02E2041-2757-4F2B-AAA6-5A3594E92AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02E2041-2757-4F2B-AAA6-5A3594E92AC0}.Debug|x86.ActiveCfg = Debug|x86
+		{F02E2041-2757-4F2B-AAA6-5A3594E92AC0}.Debug|x86.Build.0 = Debug|x86
+		{F02E2041-2757-4F2B-AAA6-5A3594E92AC0}.Release|x86.ActiveCfg = Release|x86
+		{F02E2041-2757-4F2B-AAA6-5A3594E92AC0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
