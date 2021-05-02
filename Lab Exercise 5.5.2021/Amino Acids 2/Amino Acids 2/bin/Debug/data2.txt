@@ -1,0 +1,3 @@
+The molecular weight of the first amino acid is 131.17
+The molecular weight of the second amino acid is 119.12
+The difference in weights is 12.05436

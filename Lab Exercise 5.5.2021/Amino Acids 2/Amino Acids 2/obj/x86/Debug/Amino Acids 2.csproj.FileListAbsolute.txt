@@ -1,0 +1,5 @@
+F:\SST\2020 - 2021 Courses\Programming II\C# for Server\Ready for Upload\Lab Exercise 5.5.2021\Amino Acids 2\Amino Acids 2\bin\Debug\Amino Acids 2.exe
+F:\SST\2020 - 2021 Courses\Programming II\C# for Server\Ready for Upload\Lab Exercise 5.5.2021\Amino Acids 2\Amino Acids 2\bin\Debug\Amino Acids 2.pdb
+F:\SST\2020 - 2021 Courses\Programming II\C# for Server\Ready for Upload\Lab Exercise 5.5.2021\Amino Acids 2\Amino Acids 2\obj\x86\Debug\Amino Acids 2.csprojResolveAssemblyReference.cache
+F:\SST\2020 - 2021 Courses\Programming II\C# for Server\Ready for Upload\Lab Exercise 5.5.2021\Amino Acids 2\Amino Acids 2\obj\x86\Debug\Amino Acids 2.exe
+F:\SST\2020 - 2021 Courses\Programming II\C# for Server\Ready for Upload\Lab Exercise 5.5.2021\Amino Acids 2\Amino Acids 2\obj\x86\Debug\Amino Acids 2.pdb
