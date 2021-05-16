@@ -1,0 +1,27 @@
+C:\Users\nmessa\Desktop\MyC#\Exercise 50\ZipCode\ZipCode\obj\x86\Debug\ZipCode.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 50\ZipCode\ZipCode\obj\x86\Debug\ZipCode.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 50\ZipCode\ZipCode\obj\x86\Debug\ZipCode.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\MyC#\Exercise 50\ZipCode\ZipCode\bin\Debug\ZipCode.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 50\ZipCode\ZipCode\bin\Debug\ZipCode.pdb
+C:\Users\nmessa\Desktop\MyC#\Exercise 50\ZipCode\ZipCode\obj\x86\Debug\ZipCode.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 50\ZipCode\ZipCode\obj\x86\Debug\ZipCode.pdb
+G:\SST\2017 - 2018 Courses\Programming II\MyC#\Lab Exercise 6.1.2018\ZipCode\ZipCode\obj\x86\Debug\ZipCode.exe
+G:\SST\2017 - 2018 Courses\Programming II\MyC#\Lab Exercise 6.1.2018\ZipCode\ZipCode\obj\x86\Debug\ZipCode.pdb
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.30.2019\ZipCode\ZipCode\obj\x86\Debug\ZipCode.exe
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.30.2019\ZipCode\ZipCode\obj\x86\Debug\ZipCode.pdb
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.30.2019\ZipCode\ZipCode\bin\Debug\ZipCode.exe
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.30.2019\ZipCode\ZipCode\bin\Debug\ZipCode.pdb
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.30.2019\ZipCode\ZipCode\obj\x86\Debug\ZipCode.Form1.resources
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.30.2019\ZipCode\ZipCode\obj\x86\Debug\ZipCode.Properties.Resources.resources
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.30.2019\ZipCode\ZipCode\obj\x86\Debug\ZipCode.csproj.GenerateResource.Cache
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 5.21.2021\ZipCode\ZipCode\obj\x86\Debug\ZipCode.exe
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 5.21.2021\ZipCode\ZipCode\obj\x86\Debug\ZipCode.pdb
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 5.21.2021\ZipCode\ZipCode\bin\Debug\ZipCode.exe
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 5.21.2021\ZipCode\ZipCode\bin\Debug\ZipCode.pdb
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 5.21.2021\ZipCode\ZipCode\obj\x86\Debug\ZipCode.Form1.resources
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 5.21.2021\ZipCode\ZipCode\obj\x86\Debug\ZipCode.Properties.Resources.resources
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 5.21.2021\ZipCode\ZipCode\obj\x86\Debug\ZipCode.csproj.GenerateResource.Cache
+F:\SST\2020 - 2021 Courses\Programming II\C# for Server\Ready for Upload\Lab Exercise 5.21.2021\ZipCode\ZipCode\obj\x86\Debug\ZipCode.exe
+F:\SST\2020 - 2021 Courses\Programming II\C# for Server\Ready for Upload\Lab Exercise 5.21.2021\ZipCode\ZipCode\obj\x86\Debug\ZipCode.pdb
+F:\SST\2020 - 2021 Courses\Programming II\C# for Server\Ready for Upload\Lab Exercise 5.20.2021\ZipCode\ZipCode\obj\x86\Debug\ZipCode.exe
+F:\SST\2020 - 2021 Courses\Programming II\C# for Server\Ready for Upload\Lab Exercise 5.20.2021\ZipCode\ZipCode\obj\x86\Debug\ZipCode.pdb
