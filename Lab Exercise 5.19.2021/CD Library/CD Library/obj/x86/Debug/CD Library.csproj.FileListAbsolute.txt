@@ -1,0 +1,13 @@
+C:\Users\nmessa\Desktop\MyC#\Exercise 49\CD Library\CD Library\bin\Debug\CD Library.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 49\CD Library\CD Library\bin\Debug\CD Library.pdb
+C:\Users\nmessa\Desktop\MyC#\Exercise 49\CD Library\CD Library\obj\x86\Debug\CD Library.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 49\CD Library\CD Library\obj\x86\Debug\CD Library.pdb
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.28.2019\CD Library\CD Library\obj\x86\Debug\CD Library.exe
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.28.2019\CD Library\CD Library\obj\x86\Debug\CD Library.pdb
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.28.2019\CD Library\CD Library\bin\Debug\CD Library.exe
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.28.2019\CD Library\CD Library\bin\Debug\CD Library.pdb
+I:\SST\2018 - 2019 Courses\Programming II\MyC#\Lab Exercise 5.28.2019\CD Library\CD Library\obj\x86\Debug\CD Library.csprojResolveAssemblyReference.cache
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 5.19.2021\CD Library\CD Library\obj\x86\Debug\CD Library.exe
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 5.19.2021\CD Library\CD Library\obj\x86\Debug\CD Library.pdb
+F:\SST\2020 - 2021 Courses\Programming II\C# for Server\Ready for Upload\Lab Exercise 5.19.2021\CD Library\CD Library\obj\x86\Debug\CD Library.exe
+F:\SST\2020 - 2021 Courses\Programming II\C# for Server\Ready for Upload\Lab Exercise 5.19.2021\CD Library\CD Library\obj\x86\Debug\CD Library.pdb
