@@ -1,0 +1,44 @@
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\Elimination\Elimination\bin\Debug\Elimination.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\Elimination\Elimination\bin\Debug\Elimination.pdb
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\Elimination\Elimination\obj\x86\Debug\Elimination.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\Elimination\Elimination\obj\x86\Debug\Elimination.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\Elimination\Elimination\obj\x86\Debug\Elimination.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\Elimination\Elimination\obj\x86\Debug\Elimination.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\Elimination\Elimination\obj\x86\Debug\Elimination.pdb
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\Elimination\Elimination\obj\x86\Debug\Elimination.csprojResolveAssemblyReference.cache
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination\Elimination\obj\x86\Debug\Elimination.exe
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination\Elimination\obj\x86\Debug\Elimination.pdb
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination\Elimination\bin\Debug\Elimination.exe
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination\Elimination\bin\Debug\Elimination.pdb
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination\Elimination\obj\x86\Debug\Elimination.csprojResolveAssemblyReference.cache
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination\Elimination\obj\x86\Debug\Elimination.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination\Elimination\obj\x86\Debug\Elimination.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination\Elimination\obj\x86\Debug\Elimination.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination 2\Elimination\obj\x86\Debug\Elimination.exe
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination 2\Elimination\obj\x86\Debug\Elimination.pdb
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination 2\Elimination\bin\Debug\Elimination.exe
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination 2\Elimination\bin\Debug\Elimination.pdb
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination 2\Elimination\obj\x86\Debug\Elimination.csprojResolveAssemblyReference.cache
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination 2\Elimination\obj\x86\Debug\Elimination.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination 2\Elimination\obj\x86\Debug\Elimination.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Lab Exercise 6.12.2018\Elimination 2\Elimination\obj\x86\Debug\Elimination.csproj.GenerateResource.Cache
+F:\SST\2017 - 2018 Courses\Programming II\MyC#\Lab Exercise 6.12.2018\Elimination\Elimination\obj\x86\Debug\Elimination.exe
+F:\SST\2017 - 2018 Courses\Programming II\MyC#\Lab Exercise 6.12.2018\Elimination\Elimination\obj\x86\Debug\Elimination.pdb
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.exe
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.pdb
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.1.2021\Elimination\Elimination\bin\Debug\Elimination.exe
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.1.2021\Elimination\Elimination\bin\Debug\Elimination.pdb
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.csprojResolveAssemblyReference.cache
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.Form1.resources
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.Properties.Resources.resources
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.exe
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.pdb
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 6.1.2021\Elimination\Elimination\bin\Debug\Elimination.exe
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 6.1.2021\Elimination\Elimination\bin\Debug\Elimination.pdb
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.csprojResolveAssemblyReference.cache
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.Form1.resources
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.Properties.Resources.resources
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.csproj.GenerateResource.Cache
+\\ada\Data Files\Programming II\Starter Code\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.exe
+\\ada\Data Files\Programming II\Starter Code\Lab Exercise 6.1.2021\Elimination\Elimination\obj\x86\Debug\Elimination.pdb
