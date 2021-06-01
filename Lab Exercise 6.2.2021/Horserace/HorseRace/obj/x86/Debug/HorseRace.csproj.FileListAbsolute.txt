@@ -1,0 +1,8 @@
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\HorseRace\HorseRace\obj\x86\Debug\HorseRace.Form1.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\HorseRace\HorseRace\obj\x86\Debug\HorseRace.Form2.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\HorseRace\HorseRace\obj\x86\Debug\HorseRace.Properties.Resources.resources
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\HorseRace\HorseRace\obj\x86\Debug\HorseRace.csproj.GenerateResource.Cache
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\HorseRace\HorseRace\bin\Debug\HorseRace.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\HorseRace\HorseRace\bin\Debug\HorseRace.pdb
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\HorseRace\HorseRace\obj\x86\Debug\HorseRace.exe
+C:\Users\nmessa\Desktop\MyC#\Exercise 54\HorseRace\HorseRace\obj\x86\Debug\HorseRace.pdb
