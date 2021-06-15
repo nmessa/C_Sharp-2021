@@ -1,0 +1,6 @@
+G:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.11.2021\MorseCode\MorseCode\bin\Debug\MorseCode.exe
+G:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.11.2021\MorseCode\MorseCode\bin\Debug\MorseCode.pdb
+G:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.11.2021\MorseCode\MorseCode\obj\x86\Debug\MorseCode.exe
+G:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.11.2021\MorseCode\MorseCode\obj\x86\Debug\MorseCode.pdb
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.11.2021\MorseCode\MorseCode\obj\x86\Debug\MorseCode.exe
+F:\SST\2020 - 2021 Courses\Programming II\MyC#\Lab Exercise 6.11.2021\MorseCode\MorseCode\obj\x86\Debug\MorseCode.pdb
